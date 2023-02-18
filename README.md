@@ -17,7 +17,7 @@
                 media="(prefers-color-scheme: dark)" />
         <source srcset="https://github-readme-stats.vercel.app/api?username=esneiderfjaimes&theme=buefy&show_icons=true&hide=contribs%2Cissues&include_all_commits=true&count_private=true&custom_title=Nei%27s%20Stats%20%F0%9F%8C%99" 
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img height="180em"
+        <img height="150em"
             src="https://github-readme-stats.vercel.app/api?username=esneiderfjaimes&theme=shades-of-purple&show_icons=true&hide=contribs%2Cissues&include_all_commits=true&count_private=true&custom_title=Nei%27s%20Stats%20%F0%9F%8C%99" />
     </picture>
     <picture>
@@ -25,7 +25,7 @@
                 media="(prefers-color-scheme: dark)" />
         <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=esneiderfjaimes&theme=buefy&show_icons=true&hide=contribs%2Cissues&include_all_commits=true&count_private=true&custom_title=Languages%20🫥" 
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img height="180em"
+        <img height="150em"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=esneiderfjaimes&theme=shades-of-purple&show_icons=true&hide=contribs%2Cissues&include_all_commits=true&count_private=true&custom_title=Languages%20🫥" />
     </picture>
 </p>
