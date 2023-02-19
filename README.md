@@ -32,6 +32,12 @@
 
 <p align="center">
     <a href="#">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+        <picture>
+            <source srcset="https://raw.githubusercontent.com/esneiderfjaimes/esneiderfjaimes/master/res/bottom_dark.svg"
+                media="(prefers-color-scheme: dark)" />
+            <source srcset="https://raw.githubusercontent.com/esneiderfjaimes/esneiderfjaimes/master/res/bottom_light.svg"
+                media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+            <img src="https://raw.githubusercontent.com/esneiderfjaimes/esneiderfjaimes/master/res/bottom_dark.svg" />
+        </picture>
     </a>
 </p>
