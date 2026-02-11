@@ -6,7 +6,6 @@
 
 <div align="center">
     <h1 align="center">Hi there 👋🏻</h1>
-    <h3 align="center">I'm a pu**y Jetpack Compose Fan 🤠</h3>
 </div>
 
 ### ⚙️ &nbsp;GitHub Analytics
